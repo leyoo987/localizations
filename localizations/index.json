@@ -1,0 +1,37 @@
+[
+  {
+    "code": "en_US",
+    "name": "English",
+    "country": "United States"
+  },
+  {
+    "code": "de_DE",
+    "name": "Deutsch",
+    "country": "Deutschland"
+  },
+  {
+    "code": "el_GR",
+    "name": "Ελληνικά",
+    "country": "Ελλάδα"
+  },
+  {
+    "code": "pt_BR",
+    "name": "Português",
+    "country": "Brasil"
+  },
+  {
+    "code": "ro_RO",
+    "name": "Română",
+    "country": "România"
+  },
+  {
+    "code": "sl_SI",
+    "name": "Slovenščina",
+    "country": "Slovenija"
+  },
+  {
+    "code": "es_PE",
+    "name": "Español",
+    "country": "Perú"
+  }
+]
